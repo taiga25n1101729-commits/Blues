@@ -1,0 +1,40 @@
+body {
+    color: #333333;
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    font-size: 70px;
+    letter-spacing: 5px;
+}
+h2 {
+    margin: 10px;
+}
+
+#top {
+
+    background-image:url(image/cropkum07012044\ \(1\).jpg);
+    background-size: cover;
+    padding: 200px 0;
+}
+
+#about{
+    background-color:#034694;
+    padding:60px ;
+    color:#FFFFFF
+}
+
+#skills{
+    background-color:#9c4e39;
+    padding:100px;
+}
+
+#portfolio{
+    background-color:#22e304; 
+    padding:500px;
+  }
+
+ul {
+ list-style: none;
+}
